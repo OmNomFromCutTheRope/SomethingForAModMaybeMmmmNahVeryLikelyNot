@@ -1,8 +1,10 @@
 {
-  "jester_players": {
-    "bd236a2260446f2189bbd6751eeca146eb2187e4a5cd853f4633a272c1460b7b": "LustoUnity"
-  },
-  "blacklisted_players": {
-    "b8b25933-df5c-4061-8468-5e209582db0a": "certain indivdual 1"
-  }
+    "jester_players": {
+        "none": "LustoUnity",
+        "user-id": "nickname"
+    },
+    "blacklisted_players": {
+        "b8b25933-df5c-4061-8468-5e209582db0a": "certain indivdual 1",
+      "f35ce084-5484-4661-88d3-d7b477990bf5": "lustounity"
+    }
 }
