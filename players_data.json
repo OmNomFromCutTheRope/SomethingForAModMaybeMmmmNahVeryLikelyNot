@@ -1,11 +1,11 @@
 {
     "jester_players": {
         "bd236a2260446f2189bbd6751eeca146eb2187e4a5cd853f4633a272c1460b7b": "LustoUnity",
-        "31fc4db9800f404d232c5caf3bcc3220354aead43eee33e0cfe9815c369e6f40": "webgltest",
+        "e140beba83935f7a4fa277c454f0f7b5654905364cbf869b05d73a950abbed6f": "webgltest",
         "user-id": "nickname"
     },
     "blacklisted_players": {
         "b8b25933-df5c-4061-8468-5e209582db0a": "certain indivdual 1",
-       "5ef9a417-d4ad-4709-aeea-84dc83fe2282": "nickname"
+        "user-id": "nickname"
     }
 }
