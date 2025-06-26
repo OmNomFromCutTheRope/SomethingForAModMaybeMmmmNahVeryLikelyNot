@@ -1,3 +1,4 @@
 {
-  "authUrl": "https://lcm-auth-pnhj.onrender.com/auth/init"
+  "authUrl": "https://lcm-auth-pnhj.onrender.com/auth/init",
+  "pingUrl": "https://lcm-auth-pnhj.onrender.com/ping"
 }
